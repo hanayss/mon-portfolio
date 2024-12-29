@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/mon-portfolio/static/css/main.485b3a30.css",
+    "main.js": "/mon-portfolio/static/js/main.aa912fbf.js",
+    "static/js/453.50ba56e4.chunk.js": "/mon-portfolio/static/js/453.50ba56e4.chunk.js",
+    "static/media/kasa.webp": "/mon-portfolio/static/media/kasa.0e6febd7c5670c187792.webp",
+    "static/media/ohmyfood.webp": "/mon-portfolio/static/media/ohmyfood.0572d3a189e9ec6fccc4.webp",
+    "static/media/sophieBluel.webp": "/mon-portfolio/static/media/sophieBluel.c4d2a60bd68f04e955db.webp",
+    "static/media/welcome.webp": "/mon-portfolio/static/media/welcome.7e095700456677bf87be.webp",
+    "static/media/argentBank.webp": "/mon-portfolio/static/media/argentBank.efcfe5893d3a6be4299d.webp",
+    "static/media/booki.webp": "/mon-portfolio/static/media/booki.e693ab0afa9910912bbb.webp",
+    "static/media/ninaCarducci.webp": "/mon-portfolio/static/media/ninaCarducci.31a229b07f29d1bfa0e2.webp",
+    "static/media/sass.svg": "/mon-portfolio/static/media/sass.4aec5b382169dfda34bb98650dfe65ca.svg",
+    "static/media/react.svg": "/mon-portfolio/static/media/react.598d90dd4f36234e376cbc6ccd571550.svg",
+    "static/media/github.svg": "/mon-portfolio/static/media/github.8d1bc524d64f25bee143d25b34c557ac.svg",
+    "static/media/html.svg": "/mon-portfolio/static/media/html.eba3e919a9c1f2e4582f908e79d6f213.svg",
+    "static/media/css.svg": "/mon-portfolio/static/media/css.f1823d8606e24164d5ac03b4e9b80d85.svg",
+    "static/media/javascript.svg": "/mon-portfolio/static/media/javascript.87a6904ffa190a37c824d0b73ff669c4.svg",
+    "index.html": "/mon-portfolio/index.html",
+    "main.485b3a30.css.map": "/mon-portfolio/static/css/main.485b3a30.css.map",
+    "main.aa912fbf.js.map": "/mon-portfolio/static/js/main.aa912fbf.js.map",
+    "453.50ba56e4.chunk.js.map": "/mon-portfolio/static/js/453.50ba56e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.485b3a30.css",
+    "static/js/main.aa912fbf.js"
+  ]
+}
