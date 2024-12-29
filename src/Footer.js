@@ -2,21 +2,23 @@ import React from "react";
 
 const Footer = () => {
     return (
-        <footer className="footer">
+        <footer className="footer" id="contact">
             <ul className="footer-nav">
                 <li className="footer-item">
-                    <a
-                        href="mailto:anaisthomas08330@gmail.com"
-                        className="footer-link"
+                    <button
+                        className="footer-contact-button"
+                        onClick={() =>
+                            (window.location.href =
+                                "mailto:anaisthomas08330@gmail.com")
+                        }
                     >
-                        Contact
-                    </a>
+                        Me contacter
+                    </button>
                 </li>
             </ul>
-            <p className="footer-copy">
-                © 2024 Anaïs Thomas. Tous droits réservés.
-            </p>
+            <p className="footer-copy">© 2024 Anaïs Thomas.</p>
         </footer>
     );
 };
+
 export default Footer;
