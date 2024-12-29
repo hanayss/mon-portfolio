@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.scss";
 
-const Modal = ({ isOpen, onClose, title, description, buttons }) => {
+const Modal = ({ isOpen, onClose, title, description, image, buttons }) => {
     if (!isOpen) return null;
 
     return (
@@ -10,6 +10,11 @@ const Modal = ({ isOpen, onClose, title, description, buttons }) => {
                 <span className="close-button" onClick={onClose}>
                     &times;
                 </span>
+                {image && (
+                    <div className="modal-image">
+                        <img src={image} alt={title} />
+                    </div>
+                )}
                 <div className="modal-text">
                     <h2>{title}</h2>
                     <p>{description}</p>
