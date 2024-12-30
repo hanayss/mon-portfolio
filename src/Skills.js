@@ -5,6 +5,7 @@ import logoHtml from "./images/html.svg";
 import logoJs from "./images/javascript.svg";
 import logoReact from "./images/react.svg";
 import logoSass from "./images/sass.svg";
+import logoTailwind from "./images/tailwindcss.svg";
 import "./style.scss";
 
 const Skills = () => {
@@ -15,6 +16,7 @@ const Skills = () => {
         { src: logoSass, alt: "SASS" },
         { src: logoJs, alt: "Javascript" },
         { src: logoGithub, alt: "GitHub" },
+        { src: logoTailwind, alt: "Tailwind CSS" },
     ];
 
     return (
